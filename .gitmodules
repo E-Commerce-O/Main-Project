@@ -1,0 +1,3 @@
+[submodule "E-Commerce-UI"]
+	path = E-Commerce-UI
+	url = https://github.com/E-Commerce-O/E-Commerce-UI.git
